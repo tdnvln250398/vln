@@ -3,4 +3,4 @@ vnstock
 pandas
 numpy
 scikit-learn
-tensorflow==1.6.2
+tensorflow==1.6.0
